@@ -17,7 +17,8 @@ const Post = ({ post }: { post: PostType }) => {
       <div className="text-gray-500 text-sm">
         <DateComponent dateString={date} />
       </div>
-
+      {/* //TODO Image loading */}
+      <div>(IMAGE)</div>
       <h3 className="mt-3 text-2xl font-semibold">
         <Link
           className="hover:text-red-500 underline transition-colors"

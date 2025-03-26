@@ -34,6 +34,7 @@ export default async function Page() {
                 collaboration, instant side-by-side content previews, and
                 intuitive editing.
               </p>
+              <p>Yup, that's the tweet.</p>
             </div>
             <div className="flex items-center flex-col gap-4">
               <GetStartedCode />
